@@ -8,3 +8,7 @@ One-page website for Oshmyany Auto.
 2. Claude opens a pull request with the changes.
 3. The PR is reviewed and merged on GitHub.
 4. Hostinger auto-deploys `main` to the live site.
+
+## Status
+
+Setup in progress: repository connected, deployment to Hostinger coming next.
