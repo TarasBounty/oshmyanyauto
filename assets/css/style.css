@@ -109,7 +109,7 @@ p { margin: 0; }
   text-decoration: none;
 }
 
-.logo__car { width: 64px; height: auto; }
+.logo__car { width: 84px; height: auto; }
 
 .logo__text { display: flex; flex-direction: column; line-height: 1; }
 
@@ -631,7 +631,7 @@ p { margin: 0; }
 @media (max-width: 600px) {
   body { padding-bottom: 76px; }
 
-  .logo__car { width: 48px; }
+  .logo__car { width: 60px; }
   .logo__word { font-size: 17px; }
   .logo__sub { font-size: 9px; }
 
