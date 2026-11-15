@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 110" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Roofline sweeping from the rear to the bonnet -->
+  <path d="M30 58 C70 30 128 14 182 16 C224 18 262 38 304 66" stroke-width="7"/>
+  <!-- Window line -->
+  <path d="M104 48 C138 34 182 30 230 44" stroke-width="5"/>
+  <!-- Rear body line -->
+  <path d="M14 74 C34 68 52 66 66 66" stroke-width="6"/>
+  <!-- Rear wheel arch -->
+  <path d="M60 94 C62 72 98 64 112 86" stroke-width="7"/>
+  <!-- Sill line between the wheels -->
+  <path d="M120 82 C160 80 196 80 214 82" stroke-width="4"/>
+  <!-- Front wheel arch -->
+  <path d="M212 94 C214 72 252 64 266 86" stroke-width="7"/>
+  <!-- Front bumper -->
+  <path d="M272 84 C286 82 298 78 306 72" stroke-width="5"/>
+</svg>
